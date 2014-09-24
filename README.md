@@ -1,4 +1,6 @@
-#DEPRECATED USE http://github.com/esensi/model
+#DEPRECATED 
+
+Using only until Entrust 2.0 is out.
 
 ##Ardent
 
